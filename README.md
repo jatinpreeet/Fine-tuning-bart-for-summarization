@@ -1,2 +1,3 @@
 # Fine-tuning-bart-for-summarization
-Tried to fine tune a Bert model for custom summarisation 
+College group project : Tried to fine tune a Bart model for summarization
+Used the guide from hugging face in fine tuning LLM ( https://huggingface.co/docs/transformers/en/training )
